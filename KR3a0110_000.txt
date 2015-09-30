@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 御覽經史講義
+#+DATE: 2015-08-24 23:01:48.395495
+#+PROPERTY: ID KR3a0110
+#+PROPERTY: BASEEDITION WYG    
